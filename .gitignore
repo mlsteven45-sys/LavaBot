@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+citas.json
+actividad.json
+notificaciones_enviadas.json
+clientes.json
