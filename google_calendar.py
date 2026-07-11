@@ -57,7 +57,7 @@ def _construir_resumen_y_descripcion(datos: dict):
     else:
         precio_texto = "Según cotización"
 
-    resumen = f"Motobon: {nombre} - {servicio}"
+    resumen = f"LA 43: {nombre} - {servicio}"
     descripcion = (
         f"Nombre: {nombre}\n"
         f"Placa: {placa}\n"
