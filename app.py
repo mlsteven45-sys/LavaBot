@@ -29,7 +29,7 @@ def verificar_webhook():
 @app.route("/webhook", methods=["POST"])
 def recibir_mensaje():
     data = request.get_json()
-    print(f"📦 RAW: {data}", flush=True)
+    
     try:
         entry = data["entry"][0]
         cambio = entry["changes"][0]["value"]
