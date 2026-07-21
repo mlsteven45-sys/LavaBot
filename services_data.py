@@ -130,6 +130,14 @@ DESCRIPCIONES_SERVICIOS = {
         "Lavado + Over Hall + Polichado completo + Motor + Chasis. "
         "El servicio más completo disponible. Tiempo aproximado: 1 día."
     ),
+    "Lavado + Over Hall": (
+    "Desmonte total de todo el interior del vehículo incluyendo: silletería, alfombra, "
+    "paneles plásticos, maleta y llanta de repuesto. Lavado a profundidad de cada parte "
+    "interna, full aspirado, restauración con producto premium de carteras y tablero, "
+    "limpieza profunda del techo interno. Adicional: lavado full general de todo el "
+    "vehículo con shampoo de pH neutro. "
+    "Tiempo aproximado: 2 días."
+    ),
 }
 
 IMAGENES_SERVICIOS = {}  # Se agregan cuando estén disponibles las fotos
