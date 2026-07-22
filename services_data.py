@@ -21,7 +21,7 @@ BASE_URL = "https://lavaexpress-bot.onrender.com"
 MAX_CITAS_POR_HORA = 2
 
 # Tipos de vehículo disponibles
-TIPOS_VEHICULO = ["moto", "carro", "camioneta", "van"]
+TIPOS_VEHICULO = ["moto", "carro", "camioneta", "van", "taxi"]
 
 # Precios: { servicio: { tipo_vehiculo: precio } }
 SERVICIOS = {
@@ -81,6 +81,17 @@ SERVICIOS = {
         "Lavado + Over Hall": 300000,
         "Servicio Premium Completo": 600000,
         "Limpieza Profunda Interior": 150000,
+    },
+    "taxi": {
+    "Sencilla": 16000,
+    "Semi": 25000,
+    "Lavado Full + Motor + Brillado + Restauración externa": 85000,
+    "Lavado + Brillado": 59500,
+    "Lavado + Motor": 68000,
+    "Lavado + Chasis": 68000,
+    "Lavado + Motor + Chasis": 102000,
+    "Lavado + Desmanchado + Brillo con Cera": 102000,
+    "Limpieza Profunda Interior": 119000,
     },
 }
 
