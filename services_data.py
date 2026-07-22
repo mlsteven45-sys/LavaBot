@@ -139,7 +139,7 @@ DESCRIPCIONES_SERVICIOS = {
     ),
     "Servicio Premium Completo": (
         "Lavado + Over Hall + Polichado completo + Motor + Chasis. "
-        "El servicio más completo disponible. Tiempo aproximado: 1 día."
+        "El servicio más completo disponible. Tiempo aproximado: 2 días."
     ),
     "Lavado + Over Hall": (
     "Desmonte total de todo el interior del vehículo incluyendo: silletería, alfombra, "
@@ -149,6 +149,12 @@ DESCRIPCIONES_SERVICIOS = {
     "vehículo con shampoo de pH neutro. "
     "Tiempo aproximado: 2 días."
     ),
+    "Lavado + Motor": (
+    "Lavado de motor con técnicas profesionales garantizando el cuidado del motor y su "
+    "funcionamiento. Se utilizan productos profesionales y 100% amigables con tu vehículo "
+    "y el medio ambiente. Contamos con lavado en seco y lavado a presión, ambas técnicas "
+    "100% garantizadas."
+),
 }
 
 IMAGENES_SERVICIOS = {}  # Se agregan cuando estén disponibles las fotos
